@@ -1,0 +1,21 @@
+{
+  "name": "widget",
+  "description": "3rd Party JavaScript",
+  "main": "index.html",
+  "authors": [
+    "jvwong"
+  ],
+  "license": "MIT",
+  "keywords": [
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {    
+  }
+}
